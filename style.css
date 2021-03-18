@@ -1,0 +1,41 @@
+.head{
+    font-size: 80px;
+    margin: center;
+    background-color: #ebb649;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-weight: 300;
+}
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.header{
+    background: #935464;
+}
+.gallery{
+    margin: 5px;
+    border: 1px solid #ebb649;
+    overflow: auto;
+}
+nav{float: right;
+}
+nav ul
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li{
+    display: flex;
+    margin-top: 70px;
+padding-top: 25px;
+}
+.table{box-sizing: border-box;
+}
+.body{
+
+}
+.h1{
+    color: burlywood;
+}
